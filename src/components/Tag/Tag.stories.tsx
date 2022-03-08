@@ -13,11 +13,3 @@ export const Basic = () => (
 export const Second = () => (
      <Tag title="My second tag" />
 )
-
-export const Third = () => {
-     <Tag title="My little man" />
-}
-
-export const Fourth = () => {
-     <Tag title="My fourth commit" />
-}
